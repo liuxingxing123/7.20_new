@@ -1,0 +1,131 @@
+[
+	{
+		"company-logo":"http://www.sgsgreenpower.com/upload/201611/1479017284.png",
+		"nav-list":[
+			"Home",
+			{"About Us":["About  Us","Message","Feedback","Concact"]},
+			{"News":["Brushless Alternator","ST/STC ALternator"]},
+			"Product center",
+			"Message"
+		],
+		"canUseLanguage":["English"],
+		"lunboImgSrc":["http://www.sgsgreenpower.com/upload/201611/1478958184.jpg",
+			           "http://www.sgsgreenpower.com/upload/201707/1499654855.jpg"],
+		"productQuality":"Product quality",
+		"qualityControl":"Deal by Super market type !  Quality Assurance, Quality Control!",
+		"ourAdvantage":[
+			{"Save Cost":"Get the final prices Direct ,price transparency ! the Unit prices comprise  the cost of goods , 2% factory profit . without any other cost."},
+			{"Easy Deal":"get the prices by Super market type,without bargaining! . save time."},
+			{"Producting tracking":"the salesperson is the second Inspector ,from raw materials, production, Complete Course Tracking. direct video when producing, customers check the  goods anytime."},
+			{"Relieved & Safely":"the saleperson 80% working time in the workshop for tracking the goods; accept payment by   L/C  , T/T,  Credit insurance of  alibaba group all are ok ,  have no risk."}
+		],
+		"success-example-title":"Hot Products",
+		"success-example-info":"the salesperson  80% working in the workshop , for Complete Course Tracking production.",
+		"success-navbar":["All","Brushless Alternator","ST/STC ALternator"],
+		"success-detailInfo":[
+					{
+						"src":"http://www.sgsgreenpower.com/include/thumb.php?dir=upload/201611/1479466400.jpg&x=394&y=300",
+						"alt":"SGS 164 series 6.8kw-12kw",
+						"title":"SGS 164 series 6.8kw-12kw",
+						"msg":"SGS 164 series 6.8kw-12kw"
+					},
+					{
+						"src":"http://www.sgsgreenpower.com/include/thumb.php?dir=upload/201611/1479463858.jpg&x=394&y=300",
+						"alt":"SGS 184 series 18kw-32kw",
+						"title":"SGS 184 series 18kw-32kw",
+						"msg":"SGS 184 series 18kw-32kw"
+					},
+					{
+						"src":"http://www.sgsgreenpower.com/include/thumb.php?dir=upload/201611/1479468242.jpg&x=394&y=300",
+						"alt":"SGS 224 series 34kw-68kw",
+						"title":"SGS 224 series 34kw-68kw",
+						"msg":"SGS 224 series 34kw-68kw"
+					},
+					{
+						"src":"http://www.sgsgreenpower.com/include/thumb.php?dir=upload/201611/1479468107.jpg&x=394&y=300",
+						"alt":"SGS 274 series 80kw-200kw",
+						"title":"SGS 274 series 80kw-200kw",
+						"msg":"SGS 274 series 80kw-200kw"
+					},
+					{
+						"src":"http://www.sgsgreenpower.com/include/thumb.php?dir=upload/201611/1479469610.jpg&x=394&y=300",
+						"alt":"SGS 314 series 200kw-300kw",
+						"title":"SGS 314 series 200kw-300kw",
+						"msg":"SGS 314 series 200kw-300kw"
+					},
+					{
+						"src":"http://www.sgsgreenpower.com/include/thumb.php?dir=upload/201611/1479469653.jpg&x=394&y=300",
+						"alt":"SGS 354 series 360kw-550kw",
+						"title":"SGS 354 series 360kw-550kw",
+						"msg":"SGS 354 series 360kw-550kw"
+					},
+					{
+						"src":"http://www.sgsgreenpower.com/include/thumb.php?dir=upload/201611/1479016029.jpg&x=394&y=300",
+						"alt":"STC series 5kw-7.5kw",
+						"title":"STC series 5kw-7.5kw",
+						"msg":"STC series 5kw-7.5kw"
+					},
+					{
+						"src":"http://www.sgsgreenpower.com/include/thumb.php?dir=upload/201611/1479016029.jpg&x=394&y=300",
+						"alt":"STC series 10kw-12kw",
+						"title":"STC series 10kw-12kw",
+						"msg":"STC series 10kw-12kw"
+					},
+					{
+						"src":"http://www.sgsgreenpower.com/include/thumb.php?dir=upload/201611/1479016029.jpg&x=394&y=300",
+						"alt":"STC series 15kw-24kw",
+						"title":"STC series 15kw-24kw",
+						"msg":"STC series 15kw-24kw"
+					},
+					{
+						"src":"http://www.sgsgreenpower.com/include/thumb.php?dir=upload/201611/1479024273.jpg&x=394&y=300",
+						"alt":"STC series 30kw-50kw",
+						"title":"STC series 30kw-50kw",
+						"msg":"STC series 30kw-50kw"
+					},
+					{
+						"src":"http://www.sgsgreenpower.com/include/thumb.php?dir=upload/201611/1479183782.jpg&x=394&y=300",
+						"alt":"ST series 2kw-3kw",
+						"title":"ST series 2kw-3kw",
+						"msg":"ST series 2kw-3kw"
+					},
+					{
+						"src":"http://www.sgsgreenpower.com/include/thumb.php?dir=upload/201611/1479183782.jpg&x=394&y=300",
+						"alt":"ST series 5kw-7.5kw",
+						"title":"ST series 5kw-7.5kw",
+						"msg":"ST series 5kw-7.5kw"
+					},
+					{
+						"src":"http://www.sgsgreenpower.com/include/thumb.php?dir=upload/201611/1479183782.jpg&x=394&y=300",
+						"alt":"ST series 10kw-12kw",
+						"title":"ST series 10kw-12kw",
+						"msg":"ST series 10kw-12kw"
+					},
+					{
+						"src":"http://www.sgsgreenpower.com/include/thumb.php?dir=upload/201611/1479183782.jpg&x=394&y=300",
+						"alt":"ST series 15kw-24kw",
+						"title":"ST series 15kw-24kw",
+						"msg":"ST series 15kw-24kw"
+					}
+				],
+			"About-us":"About Us",
+			"About-us-info":"The profession Manufacturer of ALternator & deisel generator set",
+			"About-us-videoOrImg":"http://sgsgreenpower.com/upload/201702/1487470364940427.jpg",
+			"About-us-detailInfo-1":"SGSGREEN POWER CO., LTD located in Fujian, Chinese Motor Electric City, is specialized in manufacturing and exporting a wide range of Alternator ,Diesel Generator set, Our company possesses modern standard workshops, equipped with advanced and excellent production, machining and testing equipment,  We have  professional engineers, skilled QC members, and have an efficient administrative producing system.",
+			"About-us-detailInfo-2":"We are able to meet our customers' demands, providing them with superior quality products.Our products have been granted with the certificates of CE,  ISO9001:2008, SONCAP and SGS.  owing to reasonable price, high efficiency and energy saving performance,are widely praised by clients in over 30 countries and regions.our products are extensively used in building site,Factory,Hospital,Shopping Mall,Army and other industries,ect. ",
+			"About-us-advantage":[
+				"1) OEM service is available.",
+				"2) Customization service is available.",
+				"3) Timely delivery guaranteed.",
+				"4) Competitive prices & Good quality.",
+				"5) Comprehensive trace  service is available.",
+				"6) Anti-counterfeiting on line  service is available."
+			],
+			"About-us-end":"Our company sincerely hopes to have cooperation with customers from all over the world.",
+			"phone":"0086-18596669396",
+			"super-img-src":"http://img.alicdn.com/tps/TB1MnIhPXXXXXcxXpXXXXXXXXXX-185-60.png",
+			"super-limit":"US $300000",
+			"super-limit-src":"http://img.alicdn.com/tps/TB1.z6VPXXXXXbfaXXXXXXXXXXX-460-133.jpg",
+			"email":"info@sgsgreenpower.com Skype:yyyhcn"
+	}
+]

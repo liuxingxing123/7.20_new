@@ -1,0 +1,229 @@
+#footer{
+	width: 100%;
+	padding: 40px 0px;
+	box-sizing: border-box;
+    border-top: 1px solid #f0f2f5;
+    border-bottom: 1px solid #f0f2f5;
+}
+#footer .footer{
+	max-width: 1170px;
+	padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    overflow: hidden;
+}
+#footer .footer dl{
+}
+#footer .footer dl dt{
+	text-align: center;
+	line-height: 1.6;
+	font-size: 18px;
+	font-weight: 400;
+}
+#footer .footer dl dt a{
+	color: #2a333c;
+}
+#footer .footer dl  a:hover{
+	color: #62a8ea;
+}
+#footer .footer dl dd{
+	    word-wrap: break-word;
+	    text-align: center;
+	    line-height: 2.4;
+	    font-size: 13px;
+}
+#footer .footer dl dd a{
+	 color: #5e7387;
+}
+#footer .footer .phoneServer{
+	margin:  0 10px;
+	word-wrap: break-word;
+}
+.phoneServer h2{
+	text-align: center;
+	line-height: 2;
+	font-weight: 600;
+    font-size: 26px;
+    font-style: normal}
+    .phoneServer h2 a{
+    	color: #76838f;
+    }
+.phoneServer h2:hover a{
+	color: black;
+}
+.phoneServer p{
+	text-align: center;
+	color: #aaaaaa;
+	margin-bottom: 14px;
+}
+.phoneServer h3 {
+	position: relative;
+	text-align: center;
+	line-height: 26px;
+}
+.phoneServer h3 a:nth-child(1) .met-weixin{
+	position: absolute;
+    left: 156px;
+    top: -5px;
+	display: none;
+}
+.phoneServer h3 a:nth-child(1) .met-weixin span:nth-child(1){
+	display: block;
+    position: absolute;
+    width: 150px;
+    text-align: left;
+    line-height: 1.4;
+    color: black;
+    height: 60px;
+    font-size: 13px;
+    padding: 5px;
+    border: 1px solid #aaa;
+    box-shadow: 0 0 2px #222222;
+    top: -66px;
+    left: -128px;
+    background: #fff;
+}
+
+.phoneServer h3 a:nth-child(1):hover .met-weixin{
+	display: block;
+}
+.phoneServer h3 a:nth-child(1) .met-weixin span:nth-child(2){
+    width: 12px;
+    height: 12px;
+    position: absolute;
+    background: #fff;
+    border-right: 1px solid #76838f;
+    border-bottom: 1px solid #76838f;
+    bottom: 0px;
+    left: -55px;
+    transform: rotateZ(44deg);
+}
+.phoneServer h3 a:nth-child(1) i{
+	color: #83b944;
+	cursor: pointer;
+	font-size: 34px;
+	margin-right: 10px;
+	
+}
+.phoneServer h3 a:nth-child(2) i{
+	color: #89bceb;
+	cursor: pointer;
+	font-size: 26px;
+	
+}
+#foot-power{
+	height: auto;
+    border-top: 1px solid #f0f2f5;
+    padding: 20px 0px;
+    color: #aaaaaa;
+    line-height: 1.8;
+    width: 100%;
+    box-sizing: border-box;
+}
+#foot-power .footpower{
+	margin: 0 auto;
+	text-align: center;
+}
+#foot-power .footpower .foot-power{
+	font-size: 13px;
+	color: #aaaaaa;
+    line-height: 1.8;
+    vertical-align: middle;
+}
+#foot-power .footpower .alibaba{
+	position: relative;
+}
+#foot-power .footpower .alibaba img{
+	display: inline-block;
+	vertical-align: middle;
+}
+#foot-power .footpower .email{
+	    color: #aaaaaa;
+    line-height: 1.8;
+    font-size: 13px;
+    margin-top: 10px;
+}
+#foot-power .footpower .order{
+	position: absolute;
+    left: -209px;
+    top: -257px;
+    z-index: 999;
+    text-align: left;
+    font-family: Roboto;
+    box-sizing: border-box;
+    width: 496px;
+    padding: 16px;
+    border: 1px solid #dae2ed;
+    background-color: #fff;
+    box-shadow: 2px 2px 4px rgba(83,100,122,.35);
+    display: none;
+}
+#foot-power .footpower .order p{
+	color: black;
+	font-size: 13px;
+	line-height: 1.4;
+	}
+#foot-power .footpower .order .pray span{
+	color: black;
+	font-size: 13px;
+	line-height: 1.4;
+}
+#foot-power .footpower .order .pray em{
+	    color: #ff6a00;
+    font-weight: 700
+}
+#foot-power .footpower .order  a{
+    font-size: 12px;
+    line-height: 16px;
+    height: 16px;
+    color: #2192d9;
+    text-decoration: none;
+    margin-left: 6px;
+}
+#foot-power .footpower .order  a:hover{
+	color: #ff6a00;
+}
+#foot-power .footpower .order  .howDo button{
+	background-color: #e35300;
+    display: inline-block;
+    height: 26px;
+    padding: 0 12px;
+    border-radius: 3px;
+    line-height: 26px;
+    outline: none;
+    cursor: pointer;
+    color: #fff;
+    font-size: 12px;
+    box-sizing: border-box;
+    text-decoration: none;
+    margin-top: 5px;
+}
+#foot-power .footpower .order .pray .howDo button:hover{
+	background-color: #ff6a00;
+}
+#foot-power .footpower .order-arrow{
+	width: 12px;
+    height: 12px;
+    position: absolute;
+    background: #fff;
+    border-right: 2px solid rgba(83,100,122,.35);
+    border-bottom: 2px solid rgba(83,100,122,.35);
+    bottom: 28px;
+    left: 29px;
+    display: none;
+    transform: rotateZ(44deg);
+    z-index: 1000;
+}
+#foot-power .footpower .alibaba:hover .order{
+	display: block;
+}
+#foot-power .footpower .alibaba:hover .order-arrow{
+	display: block;
+}
+#footer a{
+	text-decoration: none;
+}
+#footer a:hover{
+	text-decoration: none!important;
+}
